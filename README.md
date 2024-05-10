@@ -14,7 +14,7 @@ The second layer is transformer layers which is used to learn deeper representat
 (only ENCODER is used because we do not need to generate sequence output)
 Then by concatenating the embeddings of Other Features and the output of the transformer layer, the three-layer MLPs are used to learn the interactions of the hidden features, and sigmoid function is used to generate the final output. 
 
-#Results
+# Results
 
 <img src="https://github.com/urspuc/Movie-Recommender-DL-Spring2024/assets/113117803/7695ce72-ae01-4595-8a73-8a6b516a1408" width="400"> <!-- Adjust width as needed -->
 
