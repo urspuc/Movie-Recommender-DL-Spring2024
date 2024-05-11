@@ -16,6 +16,8 @@ Then by concatenating the embeddings of Other Features and the output of the tra
 
 ## Results
 
+(Check BST Model.ipynb for codes)
+
 <img src="https://github.com/urspuc/Movie-Recommender-DL-Spring2024/assets/113117803/7695ce72-ae01-4595-8a73-8a6b516a1408" width="400"> <!-- Adjust width as needed -->
 
 <img src="https://github.com/urspuc/Movie-Recommender-DL-Spring2024/assets/113117803/04ee0708-d8f8-470d-bb1c-0ae16aeb0753" width="400"> <!-- Adjust width as needed -->
